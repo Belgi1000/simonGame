@@ -94,7 +94,6 @@ function gameBegin() {
     }
   });
 }
-      prompt();
 
 gameBegin();
 
