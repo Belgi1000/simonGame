@@ -91,10 +91,10 @@ function gameBegin() {
       alert("the game begins");
       addLevel();
       makeSound(game[0]);
-      prompt();
     }
   });
 }
+      prompt();
 
 gameBegin();
 
